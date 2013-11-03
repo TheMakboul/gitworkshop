@@ -1,0 +1,9 @@
+/.settings
+/.buildpath
+/.project
+/.externalToolBuilders
+/nbproject/
+*/.DS_Store
+.DS_Store
+node_modules/
+npm-debug.log

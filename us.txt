@@ -16,6 +16,6 @@ This is us
  falkae
  marblesnytd
  gititon
- lpierfelice
+ lpierfelice <-- yep
  ccpricenytimes
 This is moustafa makboul

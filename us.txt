@@ -1,6 +1,6 @@
 This is us
  davidseguin 
- gmeluski 
+ gmeluski <--- nope
  ramoizain 
  jimlamiell 
  meowist 
